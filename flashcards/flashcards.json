@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "protect_self_and_others",
+    "front": "What does WHMIS stand for?",
+    "back": "Workplace Hazardous Materials Information System. It is the Canada wide system for labeling hazardous products and providing Safety Data Sheets so workers know what they are handling."
+  },
+  {
+    "id": 2,
+    "domain": "protect_self_and_others",
+    "front": "What is a Safety Data Sheet (SDS)?",
+    "back": "A detailed document for a hazardous product that covers ingredients, first aid steps, fire fighting measures, and safe handling and storage instructions."
+  },
+  {
+    "id": 3,
+    "domain": "protect_self_and_others",
+    "front": "What is a workplace label?",
+    "back": "A label added by shop staff to a secondary container, such as a bottle filled from a larger drum, showing the product name and safety information."
+  },
+  {
+    "id": 4,
+    "domain": "protect_self_and_others",
+    "front": "What does a WHMIS pictogram communicate?",
+    "back": "It shows the general type of hazard, such as flammability or corrosion, at a glance through a picture inside a red diamond border."
+  },
+  {
+    "id": 5,
+    "domain": "protect_self_and_others",
+    "front": "Which WHMIS pictogram usually appears on flammable aerosol primers and thinners?",
+    "back": "The flame symbol, warning that the product can ignite easily from a spark or open flame."
+  },
+  {
+    "id": 6,
+    "domain": "protect_self_and_others",
+    "front": "Where must the shop's SDS binder or system be kept?",
+    "back": "Somewhere every worker can access it at any time during their shift, not locked away or kept offsite."
+  },
+  {
+    "id": 7,
+    "domain": "protect_self_and_others",
+    "front": "Why is PPE considered the last line of defense?",
+    "back": "Because a shop should try to remove or control a hazard at its source first, with PPE protecting the worker from whatever risk is left over."
+  },
+  {
+    "id": 8,
+    "domain": "protect_self_and_others",
+    "front": "What eye protection is needed for grinding and cutting?",
+    "back": "A full face shield worn together with safety glasses, since grinding throws fragments across a wide area and can strike the whole face."
+  },
+  {
+    "id": 9,
+    "domain": "protect_self_and_others",
+    "front": "Why are leather gloves preferred for metal cutting and grinding?",
+    "back": "Leather resists sharp edges, sparks, and heat better than thin nitrile gloves, which are meant for chemical handling instead."
+  },
+  {
+    "id": 10,
+    "domain": "protect_self_and_others",
+    "front": "What glove type is correct for mixing chemical adhesives or paint products?",
+    "back": "Nitrile gloves, since they are rated for chemical resistance and protect the skin from liquid chemical exposure."
+  },
+  {
+    "id": 11,
+    "domain": "protect_self_and_others",
+    "front": "Why must loose clothing and jewelry be avoided around spinning tools?",
+    "back": "They can catch on moving parts like a buffer wheel or drill and pull the worker's hand or body into the tool, causing serious injury."
+  },
+  {
+    "id": 12,
+    "domain": "protect_self_and_others",
+    "front": "Why is hearing protection required during long grinding and sanding tasks?",
+    "back": "Repeated loud noise causes permanent hearing damage that builds up gradually over a career, even on days that do not feel unbearably loud."
+  },
+  {
+    "id": 13,
+    "domain": "protect_self_and_others",
+    "front": "Why is a paper dust mask not enough for spray painting?",
+    "back": "It only filters larger dust particles and cannot filter chemical vapors released during solvent based spray painting."
+  },
+  {
+    "id": 14,
+    "domain": "protect_self_and_others",
+    "front": "What is the minimum respiratory protection for solvent based painting?",
+    "back": "A half face air purifying respirator fitted with organic vapor cartridges."
+  },
+  {
+    "id": 15,
+    "domain": "protect_self_and_others",
+    "front": "Why are isocyanate containing clear coats especially dangerous?",
+    "back": "They can sensitize the lungs over repeated exposure, so even a tiny future exposure can trigger a severe allergic reaction."
+  },
+  {
+    "id": 16,
+    "domain": "protect_self_and_others",
+    "front": "What respirator system is used for isocyanate based spraying?",
+    "back": "A supplied air respirator system that pumps clean outside air to the painter, instead of relying on filter cartridges alone."
+  },
+  {
+    "id": 17,
+    "domain": "protect_self_and_others",
+    "front": "What does it mean if a painter smells solvent through their respirator?",
+    "back": "The filter cartridge is worn out and needs to be replaced immediately."
+  },
+  {
+    "id": 18,
+    "domain": "protect_self_and_others",
+    "front": "Why does respirator fit testing matter?",
+    "back": "It confirms the respirator seals properly against an individual worker's face, since face shape and facial hair affect the seal."
+  },
+  {
+    "id": 19,
+    "domain": "protect_self_and_others",
+    "front": "What is the main safety purpose of spray booth exhaust ventilation?",
+    "back": "It keeps flammable vapor concentration low enough to avoid ignition and reduces harmful vapor exposure to the painter."
+  },
+  {
+    "id": 20,
+    "domain": "protect_self_and_others",
+    "front": "Why are grounding straps and bonding used when transferring flammable liquids?",
+    "back": "They safely discharge static electricity that could otherwise spark and ignite flammable vapors."
+  },
+  {
+    "id": 21,
+    "domain": "protect_self_and_others",
+    "front": "Why is smoking or an open flame near a spray booth dangerous, even outside the door?",
+    "back": "Flammable vapors can drift beyond the booth opening and still reach and ignite near an open flame nearby."
+  },
+  {
+    "id": 22,
+    "domain": "protect_self_and_others",
+    "front": "What happens when spray booth filters are clogged and not replaced?",
+    "back": "Airflow is reduced and combustible overspray material builds up in the ductwork, increasing fire risk."
+  },
+  {
+    "id": 23,
+    "domain": "protect_self_and_others",
+    "front": "Why must spray booth lighting be sealed or explosion proof rated?",
+    "back": "A broken bulb or electrical fault could otherwise become an ignition source inside a vapor filled booth."
+  },
+  {
+    "id": 24,
+    "domain": "protect_self_and_others",
+    "front": "What does a spray booth interlock system do?",
+    "back": "It prevents the spray gun or heater from operating unless the exhaust fan is confirmed running."
+  },
+  {
+    "id": 25,
+    "domain": "protect_self_and_others",
+    "front": "Why must solvent soaked rags go in a closed metal container?",
+    "back": "They can heat up through spontaneous combustion and ignite on their own without any external flame nearby."
+  },
+  {
+    "id": 26,
+    "domain": "protect_self_and_others",
+    "front": "Where should used oil and other liquid hazardous waste be stored?",
+    "back": "In labeled, sealed containers kept away from floor drains, to prevent spills from reaching the environment."
+  },
+  {
+    "id": 27,
+    "domain": "protect_self_and_others",
+    "front": "What color are flammable liquid safety storage cabinets typically painted?",
+    "back": "Yellow, so they can be quickly and clearly identified in the shop."
+  },
+  {
+    "id": 28,
+    "domain": "protect_self_and_others",
+    "front": "Are empty aerosol cans and spent spray filters hazardous waste?",
+    "back": "Yes, until confirmed empty and handled by a licensed waste hauler, since residual product can remain inside."
+  },
+  {
+    "id": 29,
+    "domain": "protect_self_and_others",
+    "front": "Why does a shop need records of hazardous waste pickup and disposal?",
+    "back": "Ontario environmental regulations require a documented paper trail, often called a manifest, showing where the waste went."
+  },
+  {
+    "id": 30,
+    "domain": "protect_self_and_others",
+    "front": "Why should hazardous waste containers be kept away from floor drains?",
+    "back": "A spill near a drain can quickly contaminate groundwater by reaching an outside sewer or storm system."
+  },
+  {
+    "id": 31,
+    "domain": "protect_self_and_others",
+    "front": "Why is sanding dust from primer and filler a fire hazard?",
+    "back": "It is combustible and can accumulate as fuel on ledges, fixtures, and inside equipment over time."
+  },
+  {
+    "id": 32,
+    "domain": "protect_self_and_others",
+    "front": "Which fire extinguisher class is used for paint and solvent fires?",
+    "back": "Class B, which is rated for flammable liquid fires."
+  },
+  {
+    "id": 33,
+    "domain": "protect_self_and_others",
+    "front": "Why must emergency exits stay clear of parts and clutter?",
+    "back": "So workers can evacuate quickly and safely if something goes wrong, even for a short blockage."
+  },
+  {
+    "id": 34,
+    "domain": "protect_self_and_others",
+    "front": "What is required before starting hot work like welding near other materials?",
+    "back": "A posted fire watch and clearing of nearby flammable materials before work begins."
+  },
+  {
+    "id": 35,
+    "domain": "protect_self_and_others",
+    "front": "Why can welding sparks be dangerous even a short distance away?",
+    "back": "Sparks can travel farther than expected and ignite combustible material unnoticed, smoldering before becoming a visible fire."
+  },
+  {
+    "id": 36,
+    "domain": "protect_self_and_others",
+    "front": "How should oxygen and acetylene cylinders be stored?",
+    "back": "Upright, chained to prevent tipping, and kept separated from each other when not in use."
+  },
+  {
+    "id": 37,
+    "domain": "protect_self_and_others",
+    "front": "What is the purpose of lockout and tagout (LOTO)?",
+    "back": "To prevent equipment from starting up unexpectedly while a worker is servicing or adjusting it."
+  },
+  {
+    "id": 38,
+    "domain": "protect_self_and_others",
+    "front": "Who should normally remove a lock placed during a lockout procedure?",
+    "back": "The worker who applied the lock, once their task is complete and the area is confirmed clear."
+  },
+  {
+    "id": 39,
+    "domain": "protect_self_and_others",
+    "front": "What risk does removing a machine guard create?",
+    "back": "An increased risk of a serious hand injury from contact with the moving part the guard was blocking."
+  },
+  {
+    "id": 40,
+    "domain": "protect_self_and_others",
+    "front": "Why is LOTO especially important for frame machines and compressors?",
+    "back": "An unexpected startup during maintenance on this powerful equipment could crush or entangle a worker."
+  },
+  {
+    "id": 41,
+    "domain": "protect_self_and_others",
+    "front": "What must be confirmed before repairing shop equipment itself?",
+    "back": "That the equipment is de-energized, tagged, and confirmed clear by other workers in the shop."
+  },
+  {
+    "id": 42,
+    "domain": "protect_self_and_others",
+    "front": "What does a machine guard on a bench grinder do?",
+    "back": "It physically keeps hands and loose clothing away from the spinning grinding wheel."
+  },
+  {
+    "id": 43,
+    "domain": "protect_self_and_others",
+    "front": "Why must vehicle lift points match the manufacturer's recommended locations?",
+    "back": "The wrong lift points can cause the vehicle to slip, tip, or suffer frame or suspension damage while raised."
+  },
+  {
+    "id": 44,
+    "domain": "protect_self_and_others",
+    "front": "What should always be engaged before working underneath a raised vehicle?",
+    "back": "The lift's mechanical safety locks, since hydraulic pressure alone can fail silently over time."
+  },
+  {
+    "id": 45,
+    "domain": "protect_self_and_others",
+    "front": "Why should jack stands never sit on wood blocks or uneven concrete?",
+    "back": "An unstable base can cause the jack stand to shift or fail under the vehicle's load."
+  },
+  {
+    "id": 46,
+    "domain": "protect_self_and_others",
+    "front": "What should be checked on a ladder before each use?",
+    "back": "Cracks, loose rungs, or damaged feet."
+  },
+  {
+    "id": 47,
+    "domain": "protect_self_and_others",
+    "front": "Why does a ladder's duty rating matter?",
+    "back": "It reflects the maximum weight the ladder can safely support, including the worker plus any tools carried."
+  },
+  {
+    "id": 48,
+    "domain": "protect_self_and_others",
+    "front": "What is the correct technique for manually lifting a heavy panel?",
+    "back": "Bend at the knees and keep the load close to the body, rather than bending at the waist."
+  },
+  {
+    "id": 49,
+    "domain": "protect_self_and_others",
+    "front": "What is the internal responsibility system under the OHSA?",
+    "back": "Everyone in the workplace, from apprentice to owner, shares responsibility for safety, not just one designated person."
+  },
+  {
+    "id": 50,
+    "domain": "protect_self_and_others",
+    "front": "What are the three basic worker rights under the OHSA?",
+    "back": "The right to know about hazards, the right to participate in safety decisions, and the right to refuse unsafe work."
+  },
+  {
+    "id": 51,
+    "domain": "protect_self_and_others",
+    "front": "What is the correct first step to refuse unsafe work?",
+    "back": "Notify a supervisor immediately and cooperate with the investigation process, rather than simply walking off the job."
+  },
+  {
+    "id": 52,
+    "domain": "protect_self_and_others",
+    "front": "What does a joint health and safety committee do?",
+    "back": "It inspects the workplace and brings forward safety concerns, made up of both worker and management representatives."
+  },
+  {
+    "id": 53,
+    "domain": "protect_self_and_others",
+    "front": "What should happen to an accident scene after a critical injury?",
+    "back": "It should not be disturbed until the investigation allows it, except to help the injured person or prevent further harm."
+  },
+  {
+    "id": 54,
+    "domain": "protect_self_and_others",
+    "front": "Who must a critical injury in an Ontario shop be reported to?",
+    "back": "The Ministry of Labour."
+  },
+  {
+    "id": 55,
+    "domain": "protect_self_and_others",
+    "front": "What is the definition of a hazard?",
+    "back": "Anything in the workplace that could cause harm to a person, whether physical, chemical, or ergonomic."
+  },
+  {
+    "id": 56,
+    "domain": "protect_self_and_others",
+    "front": "Give an example of an ergonomic hazard in an auto body shop.",
+    "back": "Repeatedly bending over a fender for hours during bodywork, which strains the body gradually over time."
+  },
+  {
+    "id": 57,
+    "domain": "protect_self_and_others",
+    "front": "Why do workers often ignore early signs of ergonomic injury?",
+    "back": "Because ergonomic injuries build up slowly over months instead of happening all at once like a sudden injury."
+  },
+  {
+    "id": 58,
+    "domain": "protect_self_and_others",
+    "front": "Why is compressed air considered a physical hazard?",
+    "back": "High pressure air directed at skin or used to clean clothing can force air into the body and cause serious injury."
+  },
+  {
+    "id": 59,
+    "domain": "protect_self_and_others",
+    "front": "What are the three main hazard categories covered in this chapter?",
+    "back": "Physical hazards, chemical hazards, and ergonomic hazards, each requiring different prevention and control methods."
+  },
+  {
+    "id": 60,
+    "domain": "protect_self_and_others",
+    "front": "What electrical hazards exist around welders and battery chargers in a shop?",
+    "back": "Wet hands, frayed cords, or equipment used near flammable vapors can all lead to shock or fire."
+  },
+  {
+    "id": 61,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why is a pre-repair walkaround inspection performed before any repair work begins?",
+    "back": "To spot and document all visible damage, including anything missed on the insurance estimate, before the vehicle is moved into the work bay."
+  },
+  {
+    "id": 62,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What can uneven panel gaps between the hood and fenders indicate during a pre-repair inspection?",
+    "back": "Possible hidden frame damage or a panel that was misaligned during a previous repair."
+  },
+  {
+    "id": 63,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why does the shop photograph and document damage before starting a repair?",
+    "back": "It protects both the shop and the customer by proving the vehicle's condition before any work began, preventing later disputes."
+  },
+  {
+    "id": 64,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What is a swirl mark?",
+    "back": "A fine circular scratch that appears as a hazy pattern under bright light, usually caused by wiping dirt across paint with a dry or dirty cloth."
+  },
+  {
+    "id": 65,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What is the purpose of the pre-rinse stage of an exterior wash?",
+    "back": "Plain water knocks loose dirt and grit off the surface before any cloth or sponge touches the paint, preventing scratches."
+  },
+  {
+    "id": 66,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What makes a pH-balanced car wash soap different from household dish soap?",
+    "back": "It cleans the surface without stripping away wax or sealant protection, unlike a harsh dish soap."
+  },
+  {
+    "id": 67,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "How does the two-bucket wash method reduce paint scratching?",
+    "back": "The wash mitt is rinsed in a plain water bucket before returning to the soap bucket, so grit is not carried back onto the paint."
+  },
+  {
+    "id": 68,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why should a vehicle be dried promptly after rinsing rather than left to air dry?",
+    "back": "Air drying allows minerals in the water to evaporate on the paint and leave visible water spots."
+  },
+  {
+    "id": 69,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What are bonded contaminants?",
+    "back": "Particles like tree sap, tar, and rail dust that stick to paint and do not wash away with soap and water."
+  },
+  {
+    "id": 70,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What tool is used to remove bonded contaminants from paint before polishing?",
+    "back": "A clay bar, used with a lubricant and light pressure to lift contaminants off the surface."
+  },
+  {
+    "id": 71,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What should be done with a clay bar that has been dropped on the shop floor?",
+    "back": "It should be discarded, since embedded grit could scratch the paint on the next pass."
+  },
+  {
+    "id": 72,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why is claying normally done before polishing a vehicle?",
+    "back": "Leaving bonded contaminants on the surface would cause the polishing pad to drag grit across the paint."
+  },
+  {
+    "id": 73,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What is the difference between compound and polish?",
+    "back": "Compound is a heavier abrasive used first on deep scratches and oxidation; polish is finer and used after compound or for light defects."
+  },
+  {
+    "id": 74,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why is a dual action polisher generally safer than a single action rotary polisher?",
+    "back": "Its spinning and oscillating motion together reduces the risk of generating too much heat and burning through the clear coat."
+  },
+  {
+    "id": 75,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What does a panel getting hot to the touch during polishing usually mean?",
+    "back": "The clear coat is being cut too aggressively and risks burning through if the repairer keeps working the same spot."
+  },
+  {
+    "id": 76,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What is oxidation on automotive paint?",
+    "back": "A dull, chalky, faded appearance caused by long-term sun and weather exposure without regular waxing."
+  },
+  {
+    "id": 77,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What is a fish eye defect and what usually causes it?",
+    "back": "A small round crater in fresh paint, usually caused by silicone or oil contamination on the surface before painting."
+  },
+  {
+    "id": 78,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What is orange peel and what usually causes it?",
+    "back": "A bumpy, textured paint surface resembling an orange skin, usually caused by spray gun settings or paint booth conditions."
+  },
+  {
+    "id": 79,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What ingredient in traditional wax is known for producing a deep, warm shine?",
+    "back": "Carnauba, a natural wax derived from the leaves of a type of palm tree."
+  },
+  {
+    "id": 80,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "How does synthetic paint sealant generally compare to traditional carnauba wax?",
+    "back": "Sealant typically lasts longer under sun and weather exposure, though it can look slightly less warm than wax."
+  },
+  {
+    "id": 81,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What environment does ceramic coating need for a proper application?",
+    "back": "A controlled, dust-free space with adequate time allowed to cure undisturbed before the vehicle gets wet."
+  },
+  {
+    "id": 82,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why should leather upholstery be cleaned with a dedicated leather cleaner and conditioner?",
+    "back": "Harsh chemicals or excess water can dry out and crack leather, unlike more resilient cloth upholstery."
+  },
+  {
+    "id": 83,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What method removes a deep, set-in stain from cloth upholstery?",
+    "back": "Extracting the stain with fabric cleaner and a wet vacuum machine that pulls out moisture and dirt together."
+  },
+  {
+    "id": 84,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why is a matte or satin dashboard protectant generally preferred over a heavy glossy one?",
+    "back": "A very glossy dashboard finish can create distracting glare on the windshield while driving."
+  },
+  {
+    "id": 85,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why does interior glass need a dedicated glass cleaner instead of a standard shop rag?",
+    "back": "A film from off-gassing plastics can smear under a regular cloth, so a proper glass cleaner and lint-free cloth are needed."
+  },
+  {
+    "id": 86,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What steps address a strong smoke odor in a vehicle's interior?",
+    "back": "Ozone treatment combined with thorough cleaning of the actual source of the odor, not just masking it with air freshener."
+  },
+  {
+    "id": 87,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What should be protected before spraying degreaser in an engine bay?",
+    "back": "Sensitive electrical components such as the battery terminals, alternator, and open air intakes should be covered or bagged."
+  },
+  {
+    "id": 88,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "Why should high-pressure water never be aimed directly at a wiring harness during engine bay rinsing?",
+    "back": "Forced water intrusion can cause corrosion or electrical faults in the connectors over time."
+  },
+  {
+    "id": 89,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What components should engine dressing product never be applied to?",
+    "back": "Belts, pulleys, or anything that could become slippery and create a mechanical hazard."
+  },
+  {
+    "id": 90,
+    "domain": "detail_exterior_and_interior_vehicle_body_and_components",
+    "front": "What lighting condition should be used for a proper final paint inspection?",
+    "back": "Strong, even natural daylight or a dedicated inspection light, since dim fluorescent lighting can hide defects."
+  },
+  {
+    "id": 91,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is raking light used for during a pre-refinishing inspection?",
+    "back": "Light shone at a low angle across a panel to reveal small dents, waves, and sand scratches that overhead lighting hides."
+  },
+  {
+    "id": 92,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is the difference between surface rust and perforated rust?",
+    "back": "Surface rust sits on top of bare metal and can be sanded away; perforated rust has eaten through the metal and needs panel replacement or repair."
+  },
+  {
+    "id": 93,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What does delamination mean on a painted panel?",
+    "back": "Paint separating cleanly from the layer of material underneath it, meaning the failing coating must be removed before refinishing."
+  },
+  {
+    "id": 94,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What does chalking look like and what causes it?",
+    "back": "A dull, powdery surface caused by ultraviolet sun damage that signals the old finish has broken down."
+  },
+  {
+    "id": 95,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is galvanized steel and why does it matter for preparation?",
+    "back": "Steel coated in zinc to resist rust; it needs a different primer approach than plain cold rolled steel."
+  },
+  {
+    "id": 96,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens to sandpaper scratches as grit number increases?",
+    "back": "The abrasive particles get finer and the scratches left behind get shallower."
+  },
+  {
+    "id": 97,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What problem happens if a technician jumps from 80 grit straight to 400 grit?",
+    "back": "The coarse 80 grit scratches remain because the finer paper cannot reach deep enough to remove them."
+  },
+  {
+    "id": 98,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is featheredging?",
+    "back": "Sanding the edge of a repair in a wide, gradual taper so it blends smoothly into surrounding paint with no step."
+  },
+  {
+    "id": 99,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "How can a technician tell if a featheredge is done correctly?",
+    "back": "A good featheredge cannot be felt with a fingernail run across it."
+  },
+  {
+    "id": 100,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if an unfeathered hard step is painted over anyway?",
+    "back": "The step telegraphs, showing through the new paint as a visible ridge or line."
+  },
+  {
+    "id": 101,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "Why are DA (dual action) sanders preferred over single direction sanders?",
+    "back": "Their random orbital motion reduces the chance of visible swirl marks in the finish."
+  },
+  {
+    "id": 102,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is tooth or profile in surface preparation?",
+    "back": "The roughened texture sanding creates so primer and paint have something to mechanically grip onto."
+  },
+  {
+    "id": 103,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What grit range is typical right before applying primer over shaped filler?",
+    "back": "Around 320 to 360 grit."
+  },
+  {
+    "id": 104,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What grit range is typical for sanding cured primer before color?",
+    "back": "Around 400 to 600 grit."
+  },
+  {
+    "id": 105,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is the main purpose of masking before refinishing work?",
+    "back": "To protect glass, trim, and adjacent panels from overspray."
+  },
+  {
+    "id": 106,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if masking tape is left with air bubbles or loose edges?",
+    "back": "Paint can bleed underneath it, leaving a ragged, unwanted paint line."
+  },
+  {
+    "id": 107,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is reverse masking, or hinging?",
+    "back": "Folding a lip of tape back on itself along a curved edge so paper hangs away from the surface."
+  },
+  {
+    "id": 108,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "Why should sensors on a bumper cover be masked or removed before spraying?",
+    "back": "Paint on a sensor can interfere with how it works."
+  },
+  {
+    "id": 109,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is the main purpose of wax and grease remover?",
+    "back": "A solvent cleaner that dissolves and lifts oils, wax, silicone, and tar that sanding alone cannot remove."
+  },
+  {
+    "id": 110,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "Why is a second clean, dry cloth used to wipe off wax and grease remover?",
+    "back": "To prevent dissolved contamination from redepositing back onto the panel before the solvent flashes off."
+  },
+  {
+    "id": 111,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What paint defect can result from letting wax and grease remover air dry without wiping it off?",
+    "back": "Fisheyes, small round craters where residual contamination repels the paint."
+  },
+  {
+    "id": 112,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "At what two stages is a panel typically degreased?",
+    "back": "Before sanding begins and again after sanding is completed."
+  },
+  {
+    "id": 113,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is a tack cloth used for?",
+    "back": "A slightly sticky cloth used as the final wipe to lift fine dust without leaving residue."
+  },
+  {
+    "id": 114,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is the main job of primer?",
+    "back": "To promote adhesion between the substrate and topcoat and build up minor surface imperfections for leveling."
+  },
+  {
+    "id": 115,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "When is epoxy primer typically the best choice?",
+    "back": "Directly over sanded bare steel or aluminum, especially in corrosion prone areas, because it bonds strongly and resists moisture."
+  },
+  {
+    "id": 116,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is urethane primer surfacer designed to do?",
+    "back": "Fill small sand scratches, pinholes, and surface irregularities so the area can be block sanded flat."
+  },
+  {
+    "id": 117,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is self-etch primer and when is it used?",
+    "back": "A thin, fast drying primer with a mild acid that chemically etches bare metal, often used on galvanized steel or aluminum."
+  },
+  {
+    "id": 118,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "Why doesn't self-etch primer replace urethane surfacer for heavy filling?",
+    "back": "Self-etch primer is thin and is not designed to build material the way a surfacer does."
+  },
+  {
+    "id": 119,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What risk comes from spraying heavy urethane surfacer directly over bare steel with no epoxy or etch step first?",
+    "back": "Weaker adhesion and increased corrosion risk in moisture prone areas."
+  },
+  {
+    "id": 120,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is the main job of sealer applied right before color?",
+    "back": "To create a uniform, non-porous surface with consistent color and texture across the whole panel."
+  },
+  {
+    "id": 121,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What problem does sealer help prevent from developing under a color coat?",
+    "back": "Sand scratch swelling, where scratches soak up solvent from wet paint and show through the finish."
+  },
+  {
+    "id": 122,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "Why is sealer often tinted close to the topcoat color?",
+    "back": "It improves hiding and reduces the number of color coats needed for full, even coverage."
+  },
+  {
+    "id": 123,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "How many coats of sealer are typically applied before color?",
+    "back": "One or two light, even coats, followed by a short flash time per the technical data sheet."
+  },
+  {
+    "id": 124,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is the recommended gun to panel distance range for most spray guns?",
+    "back": "Around six to eight inches from the surface."
+  },
+  {
+    "id": 125,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if the spray gun is held too far from the panel?",
+    "back": "Dry spray results, with poor gloss and poor adhesion, sometimes developing into orange peel."
+  },
+  {
+    "id": 126,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if the spray gun is held too close to the panel?",
+    "back": "Runs and sags form as too much wet paint lands in one spot too fast."
+  },
+  {
+    "id": 127,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if the gun is tilted instead of held perpendicular?",
+    "back": "Uneven mil buildup, with more coating thickness on one side of the pattern than the other."
+  },
+  {
+    "id": 128,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if air pressure is set too low for the paint being sprayed?",
+    "back": "The paint is not properly atomized, leaving coarse droplets and a rough, gritty finish."
+  },
+  {
+    "id": 129,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if air pressure is set too high for the paint being sprayed?",
+    "back": "The paint is over atomized, causing excess overspray, dry edges, and reduced transfer efficiency."
+  },
+  {
+    "id": 130,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is a vertical fan pattern typically used for?",
+    "back": "Spraying vertical panels like doors and quarter panels in horizontal, overlapping passes."
+  },
+  {
+    "id": 131,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is a round spray pattern typically used for?",
+    "back": "Small spot repairs, edges, and hard to reach corners rather than large open panels."
+  },
+  {
+    "id": 132,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What does the spray booth's filtered airflow protect against?",
+    "back": "Dust and contamination reaching wet paint while it is applied and while it cures."
+  },
+  {
+    "id": 133,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if the spray booth is too cold when spraying?",
+    "back": "Solvent evaporation slows down, increasing the risk of runs, sags, and extended dry times."
+  },
+  {
+    "id": 134,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What happens if the spray booth is too hot when spraying?",
+    "back": "Solvents flash off too fast and can trap solvent under a skinned over surface, causing a rough or textured finish."
+  },
+  {
+    "id": 135,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What finish defect can high booth humidity cause?",
+    "back": "A hazy or blushing finish where the film looks cloudy instead of clear and glossy."
+  },
+  {
+    "id": 136,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What problem can a clogged booth intake filter cause?",
+    "back": "Reduced airflow, starving the booth of the steady filtered air needed to keep dust off the wet finish."
+  },
+  {
+    "id": 137,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is a guide coat and how is it used?",
+    "back": "A light, contrasting dusting sprayed over primer that sands away first from high spots, revealing low spots that need more leveling."
+  },
+  {
+    "id": 138,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What hands-on check confirms a featheredge and surrounding panel are ready for color?",
+    "back": "Running a clean, flat hand across the area to feel for any transition, ridge, or texture difference."
+  },
+  {
+    "id": 139,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What must be confirmed about primer and sealer before color is sprayed?",
+    "back": "That they have fully cured or flashed according to the product's technical data sheet."
+  },
+  {
+    "id": 140,
+    "domain": "prepare_vehicle_for_refinishing",
+    "front": "What is a comeback in an auto body shop?",
+    "back": "A vehicle that must return to the shop because the finished paint job failed inspection or developed a visible defect."
+  },
+  {
+    "id": 141,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is a Christmas tree clip?",
+    "back": "A ribbed plastic push pin fastener that snaps into a pre-drilled hole to hold trim flush against the body."
+  },
+  {
+    "id": 142,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What tool removes push clips and pries trim panels without scratching paint?",
+    "back": "A trim panel removal tool, a flat plastic pry tool made for this purpose."
+  },
+  {
+    "id": 143,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What rubber compound is standard for modern weatherstripping?",
+    "back": "EPDM, ethylene propylene diene monomer, chosen for its resistance to sun and heat cracking."
+  },
+  {
+    "id": 144,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What flexible plastic is used to mold bumper covers and body side mouldings?",
+    "back": "TPO, thermoplastic olefin, which flexes on light impact instead of cracking."
+  },
+  {
+    "id": 145,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "Why can't scratched chrome trim usually be sanded and repainted?",
+    "back": "Chrome is a thin plated finish, not paint, so sanding damages the plating instead of smoothing it."
+  },
+  {
+    "id": 146,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is a sems screw?",
+    "back": "A screw with a permanently attached captive washer, used for a wider bearing surface on soft plastic."
+  },
+  {
+    "id": 147,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is a self-tapping screw used for in trim work?",
+    "back": "It cuts its own mating threads into plastic or thin metal, common in mirror housings."
+  },
+  {
+    "id": 148,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is a snap clip?",
+    "back": "A plastic clip molded onto the trim backing that flexes inward and springs out to lock behind a panel."
+  },
+  {
+    "id": 149,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "Why are snap clips treated as single-use fasteners?",
+    "back": "They flex during install and can weaken or crack once released, risking a rattle if reused."
+  },
+  {
+    "id": 150,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is a barbed clip?",
+    "back": "A fastener with angled ridges along its shaft that catch and resist being pulled back out."
+  },
+  {
+    "id": 151,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "Where are barbed clips most commonly used?",
+    "back": "In door panel attachment points, where they are usually destroyed during removal and need replacing."
+  },
+  {
+    "id": 152,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the paper strip test used for?",
+    "back": "Checking weatherstripping compression by closing a strip of paper in the door and pulling it out to feel resistance."
+  },
+  {
+    "id": 153,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What does the cowl panel cover?",
+    "back": "The wiper linkage assembly and the cabin fresh air intake at the base of the windshield."
+  },
+  {
+    "id": 154,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What holds a cowl panel in place?",
+    "back": "A mix of plastic push clips and a small number of retaining screws."
+  },
+  {
+    "id": 155,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the wiper linkage?",
+    "back": "A set of connected arms that transfers motion from a single wiper motor to both wiper arms."
+  },
+  {
+    "id": 156,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What commonly bends a wiper linkage arm?",
+    "back": "Forcing a frozen wiper blade free from an icy windshield."
+  },
+  {
+    "id": 157,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What does a bent wiper linkage cause?",
+    "back": "Uneven wiper movement, stalling partway through the sweep, or grinding noise."
+  },
+  {
+    "id": 158,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What should be checked when a cowl seal at the windshield base looks pinched?",
+    "back": "That it sits flat and unpinched, or it can let water into the wiper motor or cabin intake."
+  },
+  {
+    "id": 159,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the purpose of weatherstripping around a door opening?",
+    "back": "To seal out wind noise, water intrusion, dust, and exhaust fumes."
+  },
+  {
+    "id": 160,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What causes a door to sag over time?",
+    "back": "Worn hinge pins or worn hinge bushings that no longer hold tightly."
+  },
+  {
+    "id": 161,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What symptom shows a door is sagging from hinge wear?",
+    "back": "Scraping against the fender when opening or uneven panel gaps."
+  },
+  {
+    "id": 162,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What repair avoids full hinge replacement when the hinge body is still sound?",
+    "back": "A hinge pin and bushing rebuild kit."
+  },
+  {
+    "id": 163,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What does a striker plate do?",
+    "back": "It is mounted on the body pillar and catches the door latch to hold the door shut."
+  },
+  {
+    "id": 164,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the first check for a door that needs slamming to latch?",
+    "back": "Whether the striker plate needs a slight adjustment before assuming the latch is broken."
+  },
+  {
+    "id": 165,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "How is a striker plate typically adjusted?",
+    "back": "By loosening its mounting screws and shifting its position slightly before retightening."
+  },
+  {
+    "id": 166,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the correct diagnostic step for a loose door handle that won't release the latch?",
+    "back": "Open the door panel and watch the linkage move as the handle is operated."
+  },
+  {
+    "id": 167,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What connects a door handle to the latch mechanism?",
+    "back": "A rod or cable linkage."
+  },
+  {
+    "id": 168,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What material typically forms the rigid backing of interior door panels?",
+    "back": "Injection molded plastic, often covered with a soft skin, foam, or fabric layer."
+  },
+  {
+    "id": 169,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What emblem removal technique avoids scratching paint?",
+    "back": "Working dental floss or fishing line behind the emblem to cut the old adhesive."
+  },
+  {
+    "id": 170,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What should be aligned first when installing a new emblem?",
+    "back": "The locating pins with their corresponding holes in the body panel."
+  },
+  {
+    "id": 171,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "Why does an emblem need a specified curing time before a car wash?",
+    "back": "The adhesive needs that time to fully bond, or the emblem risks coming loose again."
+  },
+  {
+    "id": 172,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "How is old emblem adhesive residue safely softened for removal?",
+    "back": "Gentle, moving heat from a heat gun followed by an approved adhesive remover."
+  },
+  {
+    "id": 173,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What should be checked before installing a new mirror housing after a collision?",
+    "back": "Whether the underlying mounting bracket itself is bent, cracked, or broken."
+  },
+  {
+    "id": 174,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "How is mirror glass typically removed from a power mirror actuator?",
+    "back": "By carefully prying it free of its small retaining spring clips."
+  },
+  {
+    "id": 175,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What should be tested on a mirror before the door panel is fully reassembled?",
+    "back": "Its full adjustment range of motion and its heating function if equipped."
+  },
+  {
+    "id": 176,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "Why match the original fastener type and size exactly during trim reassembly?",
+    "back": "A mismatched fastener can strip the mounting hole or fail to seal the trim properly."
+  },
+  {
+    "id": 177,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the two-sided automotive molding tape designed to withstand?",
+    "back": "Vibration and temperature swings without releasing, unlike household double-sided tape."
+  },
+  {
+    "id": 178,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What unit measures panel gap specifications?",
+    "back": "Millimetres."
+  },
+  {
+    "id": 179,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What confirms a repaired panel gap is finished correctly?",
+    "back": "The measured gaps match factory specification and stay even top to bottom."
+  },
+  {
+    "id": 180,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What should a technician do with hidden damage found behind an intact-looking moulding?",
+    "back": "Photograph it and add it to the estimate through a supplement."
+  },
+  {
+    "id": 181,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the best reference for hidden fastener locations before disassembly?",
+    "back": "The manufacturer's official service information for that exact vehicle model."
+  },
+  {
+    "id": 182,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What usually happens if a stuck trim panel is pulled without locating every hidden clip?",
+    "back": "A mounting tab snaps off and the panel needs replacement."
+  },
+  {
+    "id": 183,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "Why should a technician clean the channel before installing new weatherstripping?",
+    "back": "Leftover adhesive or debris can prevent the new seal from seating fully."
+  },
+  {
+    "id": 184,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What confirms a weatherstrip replacement is properly seated all the way around?",
+    "back": "Repeating the paper strip test at multiple points around the full perimeter."
+  },
+  {
+    "id": 185,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the first step in isolating a rattle from a repaired door panel?",
+    "back": "Trace the rattle back to a specific fastener, clip, or seal that was not fully seated, then correct it."
+  },
+  {
+    "id": 186,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the most likely cause of new wind noise after a trim reinstallation?",
+    "back": "A fastener, clip, or seal somewhere that was not fully seated during reassembly."
+  },
+  {
+    "id": 187,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What comparison helps catch a trim piece sitting slightly wrong during final inspection?",
+    "back": "Comparing the repaired side to the same undamaged area on the opposite side."
+  },
+  {
+    "id": 188,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What check confirms a latch and striker repair beyond a visual inspection?",
+    "back": "Closing the door several times and confirming a consistent, easy latch."
+  },
+  {
+    "id": 189,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What causes stripped plastic threads when reinstalling a self-tapping screw in a mirror housing?",
+    "back": "Overtightening the screw well beyond a firm, properly snug fit."
+  },
+  {
+    "id": 190,
+    "domain": "repair_trim_components_and_hardware",
+    "front": "What is the correct action for a broken cowl panel clip found during removal?",
+    "back": "Order and install a replacement clip of the correct original type."
+  },
+  {
+    "id": 191,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What does SRS stand for and what does the word supplemental mean in this context?",
+    "back": "SRS stands for Supplemental Restraint System. Supplemental means the airbags and pretensioners work together with the seatbelt as backup protection, not as a replacement for it."
+  },
+  {
+    "id": 192,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Name the five main components that make up a typical SRS.",
+    "back": "Airbag modules, seatbelt pretensioners, impact sensors, the clockspring, and the SRS control module. Every part reports to or is controlled by the central module."
+  },
+  {
+    "id": 193,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What does a seatbelt pretensioner do and when does it fire relative to the airbag?",
+    "back": "It pulls slack out of the seatbelt in the first instant of a crash, before the airbag inflates, holding the occupant firmly against the seat."
+  },
+  {
+    "id": 194,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Can a fired seatbelt pretensioner be reset and reused?",
+    "back": "No. Pretensioners are one-time-use pyrotechnic devices. Once fired, both the pretensioner and the belt must be replaced."
+  },
+  {
+    "id": 195,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What job do impact sensors perform in the SRS?",
+    "back": "They detect a sudden change in vehicle speed matching a real collision pattern and send that signal to the SRS control module to decide which devices to fire."
+  },
+  {
+    "id": 196,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What is the clockspring and why is it needed behind the steering wheel?",
+    "back": "It is a coiled ribbon of wiring that carries electrical signals from the fixed steering column to the rotating wheel, allowing the driver airbag and horn to keep working through full rotations."
+  },
+  {
+    "id": 197,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "How should the SRS warning light behave during a normal start-up with no faults?",
+    "back": "It comes on briefly for a few seconds and then turns off, showing the self-test completed with no stored faults found."
+  },
+  {
+    "id": 198,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What should a technician do first when the SRS warning light stays on or flashes while driving?",
+    "back": "Connect a scan tool capable of reading SRS-specific diagnostic trouble codes, rather than guessing at the cause without pulling codes."
+  },
+  {
+    "id": 199,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Why should a technician check for stored SRS codes even after the warning light goes off?",
+    "back": "Some codes stay logged in the control module's memory even after the light stops flashing on a given key cycle, so they must be checked and cleared with a scan tool."
+  },
+  {
+    "id": 200,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What is the very first step in safely de-arming an SRS before any component work begins?",
+    "back": "Disconnect the vehicle battery, starting with the negative, or ground, cable, so no current can reach the airbag circuits."
+  },
+  {
+    "id": 201,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Why is the SRS not automatically safe the instant the battery cable is disconnected?",
+    "back": "A backup power capacitor inside the SRS control module still holds enough charge to fire the airbags for a short time after disconnection."
+  },
+  {
+    "id": 202,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "How long should a technician wait after disconnecting the battery before touching SRS connectors?",
+    "back": "Always the OEM specified discharge time for that exact vehicle, confirmed from the manufacturer's service information. This time varies by manufacturer, so never assume one universal number."
+  },
+  {
+    "id": 203,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What colour are SRS wiring harness connectors usually manufactured in, and why?",
+    "back": "Yellow, so they stand out clearly from ordinary vehicle wiring and help technicians avoid accidental damage or disconnection."
+  },
+  {
+    "id": 204,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Why must a secondary locking clip on an SRS connector always be fully engaged during reinstallation?",
+    "back": "A connector that looks connected but is not fully locked can cause an intermittent fault or a failure to deploy in a real crash."
+  },
+  {
+    "id": 205,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Why should a standard multimeter never be used to test directly across an inflator's terminals with power applied?",
+    "back": "It takes very little current to fire an inflator, and a standard multimeter can pass enough current through its leads to trigger deployment."
+  },
+  {
+    "id": 206,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "How should a removed airbag module be carried and set down, and why?",
+    "back": "Trim cover facing up and away from the technician's body, so any unexpected deployment force is directed upward and outward rather than toward a person."
+  },
+  {
+    "id": 207,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Where should a removed airbag module never be placed while waiting for reinstallation?",
+    "back": "Never face down, stacked under other parts, or leaned so the cover faces a walking path. It should sit on a stable flat surface, cover up, clear of foot traffic."
+  },
+  {
+    "id": 208,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What must happen to a deployed airbag module or a fired pretensioner after removal?",
+    "back": "It must be disposed of as hazardous material according to shop safety rules. It can never be reused, rebuilt, or installed on another vehicle."
+  },
+  {
+    "id": 209,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What is the correct order for removing an airbag module from the steering wheel or dash?",
+    "back": "Access the module through the trim panel, disconnect its electrical connector, then remove the mounting fasteners so the module comes free."
+  },
+  {
+    "id": 210,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Why must a replacement SRS part be the exact OEM part or an approved equivalent for that specific trim level?",
+    "back": "SRS parts are matched to that vehicle's crash sensing calibration. A part from a different trim can change how the system fires even if it physically fits."
+  },
+  {
+    "id": 211,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What tool must be used to tighten SRS mounting fasteners, and why not just tighten by feel?",
+    "back": "A calibrated torque wrench set to the exact specification. Under-torquing can let a module shift loose, and over-torquing can crack the housing or mounting boss."
+  },
+  {
+    "id": 212,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What can happen if a steering wheel is rotated while off the column and the clockspring is not centered and locked?",
+    "back": "The ribbon inside can overwind or underwind, which can tear it or leave the driver airbag circuit open so the airbag will not fire."
+  },
+  {
+    "id": 213,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What must a technician confirm about the clockspring before bolting the steering wheel back onto the column?",
+    "back": "That the clockspring is centered, following the specific centering procedure listed for that vehicle in the service manual."
+  },
+  {
+    "id": 214,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "What two checks make up final verification after finishing SRS reinstallation work?",
+    "back": "Confirm the SRS warning light completes its self-test and turns off, and use a scan tool to check for and clear any stored SRS trouble codes."
+  },
+  {
+    "id": 215,
+    "domain": "inspect_remove_and_replace_supplemental_restraint_systems",
+    "front": "Besides the warning light and scan tool check, what else should be visually confirmed before releasing an SRS repair to the customer?",
+    "back": "That no wiring is pinched under new trim or panels, every connector is fully seated with its secondary lock engaged, and any relocated sensor is mounted exactly where specified."
+  },
+  {
+    "id": 216,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does MIG stand for?",
+    "back": "Metal inert gas, the shielding gas welding process used for most auto body sheet metal repairs."
+  },
+  {
+    "id": 217,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What wire diameter is standard for thin body sheet metal?",
+    "back": "0.023 or 0.024 inch wire, which produces a smaller, cooler puddle that resists burn-through."
+  },
+  {
+    "id": 218,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What wire diameter suits thicker structural steel?",
+    "back": "0.030 inch wire, used for frame rails and other heavy structural components."
+  },
+  {
+    "id": 219,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What shielding gas blend is standard for mild steel body panels?",
+    "back": "75 percent argon and 25 percent carbon dioxide, giving a smooth arc and low spatter."
+  },
+  {
+    "id": 220,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the standard MIG gas flow rate for mild steel?",
+    "back": "20 to 25 cubic feet per hour."
+  },
+  {
+    "id": 221,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What happens if MIG shielding gas flow is too low?",
+    "back": "Outside air contaminates the puddle, which can cause porosity in the finished weld."
+  },
+  {
+    "id": 222,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What happens if MIG shielding gas flow is too high?",
+    "back": "Turbulence can pull outside air back into the shielding zone and disrupt coverage."
+  },
+  {
+    "id": 223,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a correctly tuned MIG arc sound like?",
+    "back": "Steady frying bacon, indicating stable arc length and consistent metal transfer."
+  },
+  {
+    "id": 224,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a popping, crackling MIG arc sound usually mean?",
+    "back": "Voltage too low or wire speed too fast, causing the wire to stub into the metal."
+  },
+  {
+    "id": 225,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a hissing, spattering MIG arc with a wide puddle usually mean?",
+    "back": "Voltage set too high for the material being welded."
+  },
+  {
+    "id": 226,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define a butt joint.",
+    "back": "Two panel edges placed directly against each other with no overlap, with weld metal filling the gap."
+  },
+  {
+    "id": 227,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define a lap joint.",
+    "back": "One piece of metal overlapping another, with the weld run along the overlapping edge."
+  },
+  {
+    "id": 228,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define a fillet weld.",
+    "back": "A weld joining two pieces of metal meeting at an angle, forming a triangular cross section."
+  },
+  {
+    "id": 229,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define a plug weld.",
+    "back": "A weld made through a round hole in the top panel, fusing it to the panel beneath."
+  },
+  {
+    "id": 230,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What do plug welds replace from factory assembly?",
+    "back": "The spot welds used to join panels during original vehicle assembly."
+  },
+  {
+    "id": 231,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why are butt joints used for panel splices?",
+    "back": "They keep the original panel contour without adding extra thickness to the repair area."
+  },
+  {
+    "id": 232,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why are lap joints easier to fit up than butt joints?",
+    "back": "They do not require a precise edge to edge gap match before welding."
+  },
+  {
+    "id": 233,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a weld symbol below the reference line mean?",
+    "back": "The weld goes on the arrow side, the side the arrow physically touches."
+  },
+  {
+    "id": 234,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a weld symbol above the reference line mean?",
+    "back": "The weld goes on the side opposite the arrow."
+  },
+  {
+    "id": 235,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a symbol on both sides of the reference line mean?",
+    "back": "Welds are required on both sides of the joint."
+  },
+  {
+    "id": 236,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a number to the left of a weld symbol usually give?",
+    "back": "The weld size, such as the leg length of a fillet weld in millimeters."
+  },
+  {
+    "id": 237,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a length and pitch number pair to the right of a symbol give?",
+    "back": "The length of each weld segment and the spacing between segments for an intermittent weld."
+  },
+  {
+    "id": 238,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a circle at the symbol bend indicate?",
+    "back": "The weld must go all the way around the joint."
+  },
+  {
+    "id": 239,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a flag at the symbol bend indicate?",
+    "back": "A field weld, made on site rather than in a factory jig."
+  },
+  {
+    "id": 240,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why must technicians read weld symbols accurately?",
+    "back": "Manufacturer procedures specify exact joint type, size, and location using this symbol system."
+  },
+  {
+    "id": 241,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define porosity in a MIG weld.",
+    "back": "Small round holes or pits caused by gas bubbles trapped in the cooling metal."
+  },
+  {
+    "id": 242,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What commonly causes porosity?",
+    "back": "Contamination such as rust, paint, oil, or moisture, or disrupted shielding gas flow."
+  },
+  {
+    "id": 243,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define burn-through.",
+    "back": "The arc melting completely through thin sheet metal, leaving a hole instead of a bead."
+  },
+  {
+    "id": 244,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What commonly causes burn-through?",
+    "back": "Excess heat for the material thickness, such as voltage too high or dwelling too long."
+  },
+  {
+    "id": 245,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define cold lap.",
+    "back": "Weld metal that flows over the base metal surface without truly fusing into it."
+  },
+  {
+    "id": 246,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What commonly causes cold lap?",
+    "back": "Voltage too low, travel speed too fast, or a dirty joint surface."
+  },
+  {
+    "id": 247,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define undercut.",
+    "back": "A groove melted into the base metal beside the bead that is not filled back in."
+  },
+  {
+    "id": 248,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What commonly causes undercut?",
+    "back": "Excess heat combined with an incorrect gun or torch angle during the weld pass."
+  },
+  {
+    "id": 249,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What commonly causes excessive spatter?",
+    "back": "Voltage too high, incorrect gas mix, or a dirty, worn contact tip."
+  },
+  {
+    "id": 250,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What fuel gas is most common in auto body oxyfuel work?",
+    "back": "Acetylene, paired with oxygen to produce a flame hot enough for heating and cutting steel."
+  },
+  {
+    "id": 251,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why must acetylene cylinders stay upright?",
+    "back": "Acetone inside the cylinder stabilizes the gas and can be drawn into hoses if tipped."
+  },
+  {
+    "id": 252,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What method checks oxyfuel hose connections for leaks?",
+    "back": "A soap solution brushed onto the connections, since escaping gas forms visible bubbles."
+  },
+  {
+    "id": 253,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the correct cylinder valve opening sequence for lighting?",
+    "back": "Open the oxygen cylinder valve fully, then the acetylene cylinder valve about three quarters turn."
+  },
+  {
+    "id": 254,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What tool safely ignites an oxyfuel torch?",
+    "back": "A friction lighter, which keeps the ignition source at a safe distance from the tip."
+  },
+  {
+    "id": 255,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Describe a neutral flame.",
+    "back": "A flame with a well-defined inner cone and no feather of extra acetylene trailing off."
+  },
+  {
+    "id": 256,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the first valve closed during oxyfuel shutdown?",
+    "back": "The torch acetylene valve, closed first to extinguish the flame."
+  },
+  {
+    "id": 257,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the full oxyfuel shutdown order after the flame is out?",
+    "back": "Close the torch oxygen valve, close both cylinder valves, then bleed the hoses at the torch."
+  },
+  {
+    "id": 258,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why bleed the hoses during shutdown?",
+    "back": "To release remaining pressure from the lines and prevent a flashback risk next use."
+  },
+  {
+    "id": 259,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What color signals correct shrinking temperature for mild steel?",
+    "back": "A dull cherry red, roughly 1400 to 1600 degrees Fahrenheit."
+  },
+  {
+    "id": 260,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why does a heated spot thicken instead of spreading during shrinking?",
+    "back": "Surrounding cooler metal restrains the expansion, forcing the hot spot to thicken."
+  },
+  {
+    "id": 261,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "How is a heated spot cooled during panel shrinking?",
+    "back": "With a wet rag and light hammer and dolly pressure, shrinking it tighter as it cools."
+  },
+  {
+    "id": 262,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why is shrinking done in small spots rather than one large area?",
+    "back": "Working from the outside in with small spots avoids overheating and burning the metal."
+  },
+  {
+    "id": 263,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What risk comes from overheating a panel during shrinking?",
+    "back": "Burning the metal's grain structure, leaving it weaker and more brittle than before."
+  },
+  {
+    "id": 264,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the kindling temperature steel must reach before cutting?",
+    "back": "Roughly 1600 degrees Fahrenheit, reached by the torch's outer preheating flames."
+  },
+  {
+    "id": 265,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does the cutting oxygen jet do once steel is preheated?",
+    "back": "It burns through the hot steel and blows the resulting oxide out of the cut."
+  },
+  {
+    "id": 266,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Define kerf.",
+    "back": "The width of material removed along a cutting line."
+  },
+  {
+    "id": 267,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What happens if oxyfuel cutting travel speed is too fast?",
+    "back": "Unmelted metal remains below the surface and the cut does not fully separate."
+  },
+  {
+    "id": 268,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What happens if oxyfuel cutting travel speed is too slow?",
+    "back": "The kerf widens, gas is wasted, and heat distortion in the panel increases."
+  },
+  {
+    "id": 269,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What tip height is typical for oxyfuel cutting?",
+    "back": "About one eighth to three sixteenths of an inch above the metal surface."
+  },
+  {
+    "id": 270,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why is oxyfuel cutting mainly used for rough removal work?",
+    "back": "The heat distorts surrounding metal and leaves a rough edge that needs grinding."
+  },
+  {
+    "id": 271,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What restriction applies to cutting torches near modern vehicle structures?",
+    "back": "Manufacturers restrict cutting near high strength steel, adhesive joints, or airbag components."
+  },
+  {
+    "id": 272,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why is a welding helmet used for MIG but goggles for oxyfuel?",
+    "back": "MIG arc flash is ultraviolet and intense, while torch flame gives strong visible light only."
+  },
+  {
+    "id": 273,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why avoid synthetic fabrics like polyester when welding or cutting?",
+    "back": "Sparks can melt synthetic fabric onto the skin, causing burns."
+  },
+  {
+    "id": 274,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What clearance distance from flammables is recommended for hot work?",
+    "back": "At least 35 feet whenever practical."
+  },
+  {
+    "id": 275,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why check the opposite side of a panel before heating or cutting?",
+    "back": "Sparks and heat can pass through thin metal and ignite hidden flammable material."
+  },
+  {
+    "id": 276,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why is ventilation important during extended MIG or oxyfuel work?",
+    "back": "Coating fumes, oxygen depletion, and carbon monoxide buildup can become health hazards."
+  },
+  {
+    "id": 277,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a completed weld need for visual inspection?",
+    "back": "Uniform bead width, full fusion into the base metal, and no cracks, porosity, or undercut."
+  },
+  {
+    "id": 278,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is a destructive test coupon?",
+    "back": "A scrap piece welded the same way as the repair, then bent or broken to check strength."
+  },
+  {
+    "id": 279,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a strong weld coupon do when bent or broken?",
+    "back": "It tears through the surrounding base metal rather than breaking along the weld line."
+  },
+  {
+    "id": 280,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a coupon breaking cleanly along the weld line indicate?",
+    "back": "The weld did not achieve adequate fusion strength."
+  },
+  {
+    "id": 281,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why apply corrosion protection to bare metal after welding?",
+    "back": "To prevent rust from starting inside the repaired structure where it cannot be seen."
+  },
+  {
+    "id": 282,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why must manufacturer joint type and location be followed exactly?",
+    "back": "Manufacturers engineer specific joint strengths into the vehicle for crash performance."
+  },
+  {
+    "id": 283,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What voltage and wire speed trend applies to thin sheet metal?",
+    "back": "Lower voltage and slower wire speed than thicker structural steel requires."
+  },
+  {
+    "id": 284,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the purpose of a welder's inside cover setting chart?",
+    "back": "It gives a starting voltage and wire speed to fine tune from during setup."
+  },
+  {
+    "id": 285,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why does galvanized steel produce more fumes and spatter when welded?",
+    "back": "The zinc coating burns off during welding, producing strong fumes and extra spatter."
+  },
+  {
+    "id": 286,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a loose MIG ground clamp connection cause?",
+    "back": "An unstable arc, possible stray arc strikes, and poor weld quality."
+  },
+  {
+    "id": 287,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a V-groove weld symbol require in edge preparation?",
+    "back": "A beveled or grooved edge so the weld can fill the groove and gain penetration."
+  },
+  {
+    "id": 288,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "Why is a square butt joint limited mainly to thin material?",
+    "back": "Without a bevel, full penetration is difficult to achieve reliably on thicker steel."
+  },
+  {
+    "id": 289,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What does a T-bevel joint provide compared to a standard T-fillet joint?",
+    "back": "Deeper penetration into the joint, useful on thicker material at a right angle intersection."
+  },
+  {
+    "id": 290,
+    "domain": "weld_heat_and_cut_mig_and_oxyfuel",
+    "front": "What is the total included angle of a V-butt joint with 30 degree bevels on each side?",
+    "back": "60 degrees, the sum of the bevel angle on each side of the joint."
+  },
+  {
+    "id": 291,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is direct damage in a collision repair context?",
+    "back": "Direct damage is the crush, tear, or crease found right at the point where the vehicle was struck during the collision."
+  },
+  {
+    "id": 292,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is indirect damage?",
+    "back": "Indirect damage is damage that shows up away from the impact point because collision force traveled through the frame or unibody structure."
+  },
+  {
+    "id": 293,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is unibody construction?",
+    "back": "Unibody construction welds the floor pan, rails, and pillars into one connected structural shell instead of using a separate bolt-on frame."
+  },
+  {
+    "id": 294,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why do technicians check gaps on the undamaged side of a unibody vehicle?",
+    "back": "Because a hit on one corner can twist or stretch metal on the opposite side through the connected structure, so a shift there confirms hidden damage."
+  },
+  {
+    "id": 295,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What are diagonal measurements used for?",
+    "back": "Diagonal measurements compare fixed reference points on one side of the vehicle to mirror points on the other side to detect hidden structural shift."
+  },
+  {
+    "id": 296,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does unequal diagonal measurement readings indicate?",
+    "back": "Unequal diagonal readings indicate the vehicle's structure has shifted out of its original shape, even if the sheet metal looks fine to the eye."
+  },
+  {
+    "id": 297,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does cracked paint at the center of a dent usually indicate?",
+    "back": "Cracked or flaking paint at a dent's center usually means the metal stretched past its elastic limit rather than simply bending."
+  },
+  {
+    "id": 298,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does intact paint on a dent usually indicate?",
+    "back": "Intact paint with no cracking usually means the metal only bent and will spring back more easily, making for an easier repair."
+  },
+  {
+    "id": 299,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is crash mechanism, and why does it matter?",
+    "back": "Crash mechanism is how, from what angle, and at roughly what speed a vehicle was struck; knowing it helps predict where stress traveled and hidden damage may exist."
+  },
+  {
+    "id": 300,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is shrinking in metal repair?",
+    "back": "Shrinking removes excess stretched metal by heating a small spot and rapidly cooling it under light hammer pressure, pulling surrounding metal tighter."
+  },
+  {
+    "id": 301,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is oil canning?",
+    "back": "Oil canning is a panel that flexes in and out like the bottom of an oil can because it has lost its original crown from stretched metal."
+  },
+  {
+    "id": 302,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a dolly used for in body repair?",
+    "back": "A dolly is a shaped piece of hardened steel held against the backside of a panel to act as an anvil while the front is hammered."
+  },
+  {
+    "id": 303,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is the difference between hammer on dolly and hammer off dolly?",
+    "back": "Hammer on dolly strikes directly over the dolly for fine finishing on nearly straight metal; hammer off dolly strikes slightly away to move larger high and low spots."
+  },
+  {
+    "id": 304,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a stud welder used for?",
+    "back": "A stud welder attaches small studs, pins, or washers to a damaged panel with a short weld so a slide hammer can pull out the dent."
+  },
+  {
+    "id": 305,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "When is stud welding and pulling the preferred repair method?",
+    "back": "It is preferred when a technician cannot reach the backside of a panel with a dolly, such as on rocker panels, quarter panels, or roof sections."
+  },
+  {
+    "id": 306,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is the correct working order when straightening a dent?",
+    "back": "Work from the outer edge of the dent toward the center, since pulling or hammering the deepest point first stretches the metal further."
+  },
+  {
+    "id": 307,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a vacuum cup puller used for?",
+    "back": "A vacuum cup puller lifts shallow dents on flexible panels without heat or welding, useful for hail damage or small dings with intact paint."
+  },
+  {
+    "id": 308,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is body filler?",
+    "back": "Body filler, also called plastic filler, is a two part material mixed with a hardener and applied over straightened metal to restore a smooth true contour."
+  },
+  {
+    "id": 309,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why must bare metal be sanded before applying filler?",
+    "back": "Bare metal must be sanded to remove rust, old paint, and contamination, because filler will not bond properly to a dirty or coated surface."
+  },
+  {
+    "id": 310,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is featheredging?",
+    "back": "Featheredging is sanding the edge of a repair area to a gradual taper so filler and paint blend smoothly into the surrounding original paint."
+  },
+  {
+    "id": 311,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is filler applied in thin layers instead of one thick layer?",
+    "back": "Thin layers generate less heat while curing and are less likely to crack or shrink unevenly than one thick application."
+  },
+  {
+    "id": 312,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What tool shapes cured filler before finer sanding begins?",
+    "back": "A surform, sometimes called a cheese grater file, has a perforated grater blade used to shape cured filler quickly before finer sanding."
+  },
+  {
+    "id": 313,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a guide coat?",
+    "back": "A guide coat is a thin, contrasting colored dust coat of primer sprayed over sanded filler that wears away from high spots first, revealing low spots."
+  },
+  {
+    "id": 314,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a skim coat?",
+    "back": "A skim coat is a very thin final layer of filler applied to fill tiny pinholes or sand scratches left from block sanding."
+  },
+  {
+    "id": 315,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is sectioning?",
+    "back": "Sectioning is a partial replacement technique where only the damaged portion of a panel is cut out and a matching new section is welded in."
+  },
+  {
+    "id": 316,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why do manufacturers specify approved sectioning locations?",
+    "back": "Approved sectioning locations keep the new weld joint away from high stress areas so the repair does not compromise crash performance."
+  },
+  {
+    "id": 317,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why are high strength and ultra high strength steels poor candidates for heat straightening?",
+    "back": "Heating these steels permanently changes their strength properties, weakening the vehicle's crash performance even if the panel looks straight afterward."
+  },
+  {
+    "id": 318,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What are structural panels?",
+    "back": "Structural panels are part of the vehicle's designed crash energy path, such as frame rails, rocker panels, and certain pillars."
+  },
+  {
+    "id": 319,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What are non-structural or cosmetic panels?",
+    "back": "Non-structural panels, like a bolt on fender or hood, do not carry crash loads and generally allow more repair flexibility, including full replacement."
+  },
+  {
+    "id": 320,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why might a rusted rocker panel be replaced instead of repaired?",
+    "back": "If rust has already spread from the inside out, it is often better to replace the panel because unremoved rust will continue spreading under a repair."
+  },
+  {
+    "id": 321,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is weld through primer?",
+    "back": "Weld through primer is a zinc rich coating applied to metal edges before welding, designed to survive the welding heat and still protect the seam."
+  },
+  {
+    "id": 322,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is seam sealer used for?",
+    "back": "Seam sealer is a flexible material applied to panel joints to restore the factory water sealing and sound deadening the joint originally provided."
+  },
+  {
+    "id": 323,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is cavity wax?",
+    "back": "Cavity wax, or corrosion resistant wax, is sprayed into enclosed structures like rocker panels and door bottoms where liquid paint cannot reach directly."
+  },
+  {
+    "id": 324,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What must be reapplied after a repair disturbs the underside of a vehicle?",
+    "back": "Any undercoating removed during repair to access damage or hardware must be reapplied to match the vehicle's original protection level."
+  },
+  {
+    "id": 325,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What are panel gaps checked against?",
+    "back": "Panel gaps are checked against the vehicle manufacturer's original specification to confirm neighboring panels line up evenly all the way around."
+  },
+  {
+    "id": 326,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does an uneven panel gap usually indicate?",
+    "back": "An uneven panel gap usually signals improper alignment or hidden structural damage in the hinge, panel, or underlying structure."
+  },
+  {
+    "id": 327,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What hardware allows small gap and fit adjustments?",
+    "back": "Hinges, latches, and striker plates usually have slotted mounting holes that allow small adjustments to correct gap and flush fit."
+  },
+  {
+    "id": 328,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is flush fit?",
+    "back": "Flush fit describes how evenly one panel's surface lines up with its neighbor's surface, with no edge sitting noticeably higher or lower."
+  },
+  {
+    "id": 329,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does it mean for a panel to sit proud?",
+    "back": "Sitting proud means a panel surface is raised above the surrounding surface, which can fail inspection even if the gap width is correct."
+  },
+  {
+    "id": 330,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why are trim clips and weatherstripping installed only after alignment is confirmed?",
+    "back": "Installing trim too early can mask a poor fit, so alignment, gap, and flush fit are confirmed correct before trim is reinstalled."
+  },
+  {
+    "id": 331,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is a repaired vehicle opened and closed several times after final adjustment?",
+    "back": "Opening and closing the panel confirms it operates smoothly through its full range of motion without rubbing or binding."
+  },
+  {
+    "id": 332,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why must exposed bare metal always receive corrosion protection?",
+    "back": "Rust starts quickly once bare steel is exposed to air and moisture, so corrosion protection is a required step, not an optional one."
+  },
+  {
+    "id": 333,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is checked when remeasuring structure after a repair?",
+    "back": "Post repair measurements are compared against the pre repair measurements and factory specifications to confirm the structure returned within tolerance."
+  },
+  {
+    "id": 334,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is paint match inspected under natural or full spectrum lighting?",
+    "back": "Fluorescent shop lighting can hide color and texture differences that become obvious once the vehicle is viewed outdoors under natural light."
+  },
+  {
+    "id": 335,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is orange peel texture?",
+    "back": "Orange peel texture is a bumpy, uneven paint surface that inspectors check for during final finish quality verification."
+  },
+  {
+    "id": 336,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why are mechanical and electrical systems tested after a body repair?",
+    "back": "Systems like window regulators, mirror motors, or bumper sensors disturbed during repair must be tested for proper operation before delivery."
+  },
+  {
+    "id": 337,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is checked during a post repair road test?",
+    "back": "A road test checks for proper wheel alignment, absence of unusual noises, and correct operation of safety systems affected by the repair."
+  },
+  {
+    "id": 338,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What should repair documentation include?",
+    "back": "Repair documentation should record the damage found, the repair method used for each panel, parts replaced versus repaired, and confirming measurements."
+  },
+  {
+    "id": 339,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a crown in body repair terminology?",
+    "back": "Crown is the natural curve built into a panel during manufacturing, and restoring it is part of a properly finished repair."
+  },
+  {
+    "id": 340,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What are high spots and low spots?",
+    "back": "High spots and low spots are areas of a panel sitting above or below the intended contour after straightening, found by sight and hand."
+  },
+  {
+    "id": 341,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is work hardening?",
+    "back": "Work hardening is metal becoming stiffer and more brittle from repeated striking or bending without heat relief, which can cause cracking."
+  },
+  {
+    "id": 342,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a heat affected zone?",
+    "back": "A heat affected zone is the area around a weld or shrinking spot where heat has changed the metal's properties without melting it directly."
+  },
+  {
+    "id": 343,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why do technicians alternate their striking pattern during hammer work?",
+    "back": "Alternating strikes avoids repeatedly hitting the same spot, which helps prevent work hardening that could cause the metal to crack."
+  },
+  {
+    "id": 344,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What Ontario exam code is the Auto Body Repairer certificate of qualification?",
+    "back": "The Ontario Auto Body Repairer certificate of qualification is exam code 310Q, a provincial-only exam separate from Red Seal trade 310B."
+  },
+  {
+    "id": 345,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is a flat sanding block used to detect?",
+    "back": "A flat sanding block dragged across a panel contacts high spots first, showing exactly where more sanding or shaping work is needed."
+  },
+  {
+    "id": 346,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is hammer and dolly work performed from both sides of a panel at once?",
+    "back": "The dolly supports the metal from behind while the hammer works the front, gradually bringing low spots up and high spots down together."
+  },
+  {
+    "id": 347,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What visual clue helps distinguish a bent dent from a stretched dent?",
+    "back": "Cracked paint suggests stretched metal needing shrinking or filler, while intact paint suggests bent metal that may spring back more easily."
+  },
+  {
+    "id": 348,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is grinding stud marks flush a delicate step?",
+    "back": "Grinding too deeply can thin the metal excessively and weaken the panel, so only the stud remnant should be removed carefully."
+  },
+  {
+    "id": 349,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What happens if seam sealer does not match the factory bead pattern?",
+    "back": "A mismatched bead can compromise water sealing and sound deadening and may signal inconsistent coverage that risks a future leak."
+  },
+  {
+    "id": 350,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why should drain holes remain clear when applying cavity wax?",
+    "back": "Drain holes allow water inside a cavity to escape; blocking them traps moisture and can cause accelerated corrosion instead of protection."
+  },
+  {
+    "id": 351,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What repair difference exists between aluminum and steel panels?",
+    "back": "Aluminum has different heat sensitivity than steel and requires manufacturer specific repair methods and equipment rather than steel-based techniques."
+  },
+  {
+    "id": 352,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is a test fit performed before painting a new replacement panel?",
+    "back": "A test fit confirms gap and flush fit while the part can still be adjusted, avoiding wasted time and materials from painting a poor fit."
+  },
+  {
+    "id": 353,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What should a technician do if a replacement panel's mounting holes are misaligned?",
+    "back": "The technician should investigate whether the panel or the vehicle's mounting points need adjustment rather than forcing the parts together."
+  },
+  {
+    "id": 354,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why are both static and dynamic panel checks performed?",
+    "back": "A panel can measure correctly at rest but still bind or rub during operation, so both checks are needed to confirm full function."
+  },
+  {
+    "id": 355,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is the risk of using a vacuum cup puller on deep structural damage?",
+    "back": "A vacuum cup puller is meant for shallow, non-structural dents; it is not reliable for removing severe or structural damage."
+  },
+  {
+    "id": 356,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is corrosion protection required even on small exposed areas like ground stud marks?",
+    "back": "Any bare metal, regardless of size, is vulnerable to rust once exposed, so consistent corrosion protection is required everywhere it occurs."
+  },
+  {
+    "id": 357,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does a guide coat remaining after sanding indicate?",
+    "back": "Guide coat still visible after sanding indicates a low area that needs more filler or sanding before the surface is truly flat."
+  },
+  {
+    "id": 358,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is featheredging important to the final paint finish?",
+    "back": "A poorly featheredged edge leaves a visible ridge that will show through new paint instead of blending into the original finish."
+  },
+  {
+    "id": 359,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is the purpose of block sanding with progressively finer grits?",
+    "back": "Block sanding with finer grits removes high and low spots evenly and eliminates coarser scratch patterns before the panel is primed."
+  },
+  {
+    "id": 360,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why must sand scratches be checked before applying primer?",
+    "back": "Sand scratches can telegraph through primer and become visible in the final paint if not fully removed beforehand."
+  },
+  {
+    "id": 361,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What does equal diagonal measurements after a repair confirm?",
+    "back": "Equal diagonal measurements after structural pulling confirm the structure has been returned closer to its original factory shape."
+  },
+  {
+    "id": 362,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is repair versus replace partly a cost decision?",
+    "back": "When repair time would cost more than a replacement part, replacement can be the more practical choice for non-structural panels."
+  },
+  {
+    "id": 363,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What should be verified before reinstalling weatherstripping and trim clips?",
+    "back": "Panel alignment, gap, and flush fit should be confirmed correct first, since trim can mask a poor fit if installed too early."
+  },
+  {
+    "id": 364,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is hand-feel inspection used alongside visual inspection on a finished repair?",
+    "back": "Some defects, like subtle waves or fine scratches, are easier to feel than see, so combining both methods catches more problems."
+  },
+  {
+    "id": 365,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is the significance of paint bubbling along a seam months after a repair?",
+    "back": "Paint bubbling along a seam later usually signals incomplete or missing corrosion protection that allowed rust to form underneath."
+  },
+  {
+    "id": 366,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why does the technician check panel operation, not just static gaps?",
+    "back": "A panel could measure correctly closed yet still rub or bind when opened, so functional operation must be checked too."
+  },
+  {
+    "id": 367,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What is the purpose of remeasuring structure a second time after pulling?",
+    "back": "The second measurement confirms the structural pull actually returned the vehicle to specification, not just that it looks straight by eye."
+  },
+  {
+    "id": 368,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why is documentation treated as a required verification step, not paperwork only?",
+    "back": "Documentation gives a clear repair history useful if the vehicle is in a future collision, protecting both the shop and the customer."
+  },
+  {
+    "id": 369,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "What factor makes a structural panel repair decision different from a cosmetic panel decision?",
+    "back": "A structural panel's role in the crash energy path and heat sensitivity limit repair options in ways a cosmetic panel does not face."
+  },
+  {
+    "id": 370,
+    "domain": "repair_vehicle_bodies_and_components",
+    "front": "Why should thicker filler layers be avoided even to save time?",
+    "back": "Thicker layers generate more curing heat and are more likely to crack later, so the durability cost outweighs any short term time savings."
+  },
+  {
+    "id": 371,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What does the resin code TPO stand for?",
+    "back": "Thermoplastic olefin, a flexible plastic commonly used for bumper covers."
+  },
+  {
+    "id": 372,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What does the resin code ABS stand for?",
+    "back": "Acrylonitrile butadiene styrene, a harder, more rigid plastic used in trim and some panels."
+  },
+  {
+    "id": 373,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is a burn test used for in plastic repair?",
+    "back": "Cutting a small scrap sliver and burning it to identify plastic type by flame color and smoke smell."
+  },
+  {
+    "id": 374,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is a flex test used for?",
+    "back": "A non-destructive hand-bend check on a hidden section to see if a plastic is flexible or rigid."
+  },
+  {
+    "id": 375,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What defines a thermoplastic?",
+    "back": "A plastic that softens when heated and hardens again when cooled, repeatedly."
+  },
+  {
+    "id": 376,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What defines a thermoset?",
+    "back": "A plastic that cures permanently and cannot be melted and reshaped again."
+  },
+  {
+    "id": 377,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Can thermoset plastics be plastic welded?",
+    "back": "No, welding only works on thermoplastics; thermosets need adhesive bonding or layup."
+  },
+  {
+    "id": 378,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What are the two common plastic welding heat sources?",
+    "back": "Hot air welders and airless welders with a heated tip."
+  },
+  {
+    "id": 379,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why V-groove a crack before plastic welding?",
+    "back": "It creates a channel for the filler rod and increases bonding surface area."
+  },
+  {
+    "id": 380,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What happens if you weld too fast?",
+    "back": "The joint ends up weak and poorly fused."
+  },
+  {
+    "id": 381,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "When is a welded backing strip used?",
+    "back": "On cracks near mounting points that see repeated stress, for extra strength."
+  },
+  {
+    "id": 382,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "How do two-part structural adhesives cure?",
+    "back": "Through a chemical reaction between a resin component and a hardener."
+  },
+  {
+    "id": 383,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is pot life?",
+    "back": "The limited working time after mixing before an adhesive becomes too stiff to spread."
+  },
+  {
+    "id": 384,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is the correct surface prep order before adhesive bonding?",
+    "back": "Clean with plastic cleaner, abrade the surface, then apply adhesion promoter."
+  },
+  {
+    "id": 385,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why apply an adhesion promoter to TPO before bonding?",
+    "back": "It improves bonding on TPO's naturally low surface energy."
+  },
+  {
+    "id": 386,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is the purpose of fibreglass mesh reinforcement?",
+    "back": "To spread stress over a wider area instead of concentrating it at the crack line."
+  },
+  {
+    "id": 387,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What should be done after laying mesh into wet adhesive?",
+    "back": "Apply a second layer of adhesive over the top to fully saturate the mesh."
+  },
+  {
+    "id": 388,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why are trapped air bubbles under mesh a problem?",
+    "back": "They weaken the repair and can lead to future failure."
+  },
+  {
+    "id": 389,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "How is a large missing section of a bumper cover rebuilt?",
+    "back": "With layered mesh and adhesive built up and shaped to match the original contour."
+  },
+  {
+    "id": 390,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What are fibreglass panels built from before resin is added?",
+    "back": "Layers of glass fibre cloth or mat."
+  },
+  {
+    "id": 391,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What advantage does epoxy resin have over polyester resin?",
+    "back": "Better bonding to cured fibreglass and less shrinkage while curing."
+  },
+  {
+    "id": 392,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is the first step after removing damaged fibreglass material?",
+    "back": "Grind a bevelled taper around the damaged area."
+  },
+  {
+    "id": 393,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why are fibreglass cloth layers cut progressively larger?",
+    "back": "To build the repair in a stepped shape matching the original panel thickness."
+  },
+  {
+    "id": 394,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why roll or brush each resin-saturated cloth layer?",
+    "back": "To remove trapped air bubbles that would otherwise create weak spots."
+  },
+  {
+    "id": 395,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What happens if you sand fibreglass resin before it fully cures?",
+    "back": "The resin smears instead of cutting cleanly and releases more airborne fumes."
+  },
+  {
+    "id": 396,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What is the purpose of gelcoat?",
+    "back": "To give a finished appearance and protect the fibreglass from moisture and UV."
+  },
+  {
+    "id": 397,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why is gelcoat applied slightly thicker than the final thickness?",
+    "back": "Because sanding and polishing afterward will remove some material."
+  },
+  {
+    "id": 398,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What comes after cured gelcoat before final buffing?",
+    "back": "Wet sanding through progressively finer grits to blend the repair."
+  },
+  {
+    "id": 399,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why must filler on flexible plastics stay flexible?",
+    "back": "The panel bends during driving, and rigid material would crack loose."
+  },
+  {
+    "id": 400,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What happens if rigid filler is used on a flexible TPO bumper?",
+    "back": "The filler eventually cracks and separates once the bumper flexes."
+  },
+  {
+    "id": 401,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What must be removed from a new flexible plastic part before bonding?",
+    "back": "Mold release agent residue, using a plastic-specific pre-cleaner."
+  },
+  {
+    "id": 402,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What happens if pre-cleaning is skipped before bonding?",
+    "back": "Adhesion failure results because release agent residue blocks proper grip."
+  },
+  {
+    "id": 403,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "How is a flex test performed on a completed repair?",
+    "back": "Gently flex the repaired area by hand, checking for cracking or separation."
+  },
+  {
+    "id": 404,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What does tap testing detect?",
+    "back": "Voids or areas where resin or adhesive did not properly bond."
+  },
+  {
+    "id": 405,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What does a dull, hollow sound during tap testing mean?",
+    "back": "There is likely a void where bonding did not occur properly."
+  },
+  {
+    "id": 406,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What should happen if a repair fails flex testing?",
+    "back": "The repair should be reworked before it proceeds any further."
+  },
+  {
+    "id": 407,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why keep plastic repair sanding discs separate from metal repair discs?",
+    "back": "Metal filings trapped in plastic can telegraph through the finished paint."
+  },
+  {
+    "id": 408,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "Why does a headlight lens use polycarbonate instead of TPO?",
+    "back": "Polycarbonate offers the clarity and impact resistance a lens needs."
+  },
+  {
+    "id": 409,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What does the abbreviation SMC stand for?",
+    "back": "Sheet molded compound, a reinforced thermoset panel material."
+  },
+  {
+    "id": 410,
+    "domain": "repair_plastics_and_fibreglass",
+    "front": "What safety practice matters most during grinding, welding, and resin work?",
+    "back": "Good ventilation combined with proper respiratory protection."
+  },
+  {
+    "id": 411,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is laminated glass made of?",
+    "back": "Two layers of glass bonded to a soft plastic interlayer called polyvinyl butyral (PVB), which holds the glass together after an impact instead of letting it shatter apart."
+  },
+  {
+    "id": 412,
+    "domain": "repair_glass_and_related_components",
+    "front": "Where is laminated glass used on a vehicle and why?",
+    "back": "Windshields, because the driver needs a usable view after impact and the interlayer helps keep occupants inside the vehicle during a rollover."
+  },
+  {
+    "id": 413,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is tempered glass and how is it made?",
+    "back": "A single sheet of glass heated and rapidly cooled, putting the outer surfaces under compression, which makes it about four to five times stronger than regular glass."
+  },
+  {
+    "id": 414,
+    "domain": "repair_glass_and_related_components",
+    "front": "Where is tempered glass used and why?",
+    "back": "Side windows and backlights, because it shatters into small rounded pieces instead of long sharp shards, reducing cutting risk."
+  },
+  {
+    "id": 415,
+    "domain": "repair_glass_and_related_components",
+    "front": "Can tempered side glass ever be chip repaired with resin?",
+    "back": "No. The internal stress pattern becomes unstable once the surface breaks, so any crack or chip in tempered glass requires full replacement."
+  },
+  {
+    "id": 416,
+    "domain": "repair_glass_and_related_components",
+    "front": "Where can you find the manufacturer and glass type of a piece of automotive glass?",
+    "back": "In the etched marking near the edge of the glass, which lists the manufacturer, DOT number, and whether the glass is laminated or tempered."
+  },
+  {
+    "id": 417,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the pinch weld?",
+    "back": "The flanged metal edge of the vehicle body opening that the glass and urethane adhesive bond to structurally."
+  },
+  {
+    "id": 418,
+    "domain": "repair_glass_and_related_components",
+    "front": "What does a chalky white, cracked urethane bead usually indicate?",
+    "back": "Age and UV damage to the existing adhesive, which can lead to leaks or a weakened bond."
+  },
+  {
+    "id": 419,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the function of a rain sensor?",
+    "back": "An optical module behind the rearview mirror that detects water on the glass and triggers the wipers automatically."
+  },
+  {
+    "id": 420,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is an ADAS camera bracket used for?",
+    "back": "It holds a forward facing camera used for lane departure warning, automatic emergency braking, and adaptive cruise control."
+  },
+  {
+    "id": 421,
+    "domain": "repair_glass_and_related_components",
+    "front": "What should you check first if only part of a backlight defroster grid stops heating?",
+    "back": "The grid lines for a physical break in the glass, since this is often mistaken for an electrical fault."
+  },
+  {
+    "id": 422,
+    "domain": "repair_glass_and_related_components",
+    "front": "What general chip size is a good candidate for resin injection repair?",
+    "back": "Smaller than the size of a quarter, located away from the edge of the glass and outside the driver's primary sight line."
+  },
+  {
+    "id": 423,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why does a crack that reaches the edge of the windshield require replacement?",
+    "back": "It compromises the edge zone where the glass gets its structural strength from the urethane bond to the body."
+  },
+  {
+    "id": 424,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why might a shop replace instead of repair a small chip in the driver's sight line?",
+    "back": "Even a repairable sized chip can leave slight optical distortion after resin repair, which is a safety concern directly in front of the driver."
+  },
+  {
+    "id": 425,
+    "domain": "repair_glass_and_related_components",
+    "front": "A windshield leaks only at highway speed, not when parked. What does this suggest?",
+    "back": "Wind pulling water through a small gap in the seal rather than gravity pulling water through a larger opening."
+  },
+  {
+    "id": 426,
+    "domain": "repair_glass_and_related_components",
+    "front": "What should be checked first if an ADAS camera throws a calibration fault after glass replacement?",
+    "back": "Whether the camera bracket was reattached in exactly its original position before assuming an electrical problem."
+  },
+  {
+    "id": 427,
+    "domain": "repair_glass_and_related_components",
+    "front": "How does a resin injection tool prepare a chip before injecting resin?",
+    "back": "It clamps over the damaged area and creates a vacuum to pull air and moisture out of the crack first."
+  },
+  {
+    "id": 428,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the final finishing step after curing resin in a chip repair?",
+    "back": "Scrape the surface flush with the surrounding glass and polish it smooth."
+  },
+  {
+    "id": 429,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the cold knife windshield removal method?",
+    "back": "A hooked, sharp blade worked through the urethane bead from outside the vehicle along the pinch weld, often used when the glass will be replaced."
+  },
+  {
+    "id": 430,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the wire out windshield removal method?",
+    "back": "A thin, high strength wire pulled through the urethane bead with handles inside and outside, gentler on the glass and used when the glass must come out intact."
+  },
+  {
+    "id": 431,
+    "domain": "repair_glass_and_related_components",
+    "front": "What risk comes with using a power cut out tool at the wrong blade angle?",
+    "back": "It can cut into the pinch weld metal and damage the corrosion protection, creating a future rust point."
+  },
+  {
+    "id": 432,
+    "domain": "repair_glass_and_related_components",
+    "front": "What must be done if bare metal is exposed on the pinch weld during removal?",
+    "back": "Treat it with an approved primer before applying new urethane, or corrosion will start under the new bond."
+  },
+  {
+    "id": 433,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why is old cured urethane trimmed to a thin layer instead of removed completely?",
+    "back": "New urethane bonds better to a thin layer of cured urethane than to bare painted metal."
+  },
+  {
+    "id": 434,
+    "domain": "repair_glass_and_related_components",
+    "front": "What preparation is required on the ceramic frit band before bonding new glass?",
+    "back": "Clean it with the adhesive manufacturer's approved glass cleaner, then apply an approved primer."
+  },
+  {
+    "id": 435,
+    "domain": "repair_glass_and_related_components",
+    "front": "What shape should a properly applied urethane bead form?",
+    "back": "A continuous, consistent triangular bead following the height and width the adhesive manufacturer specifies."
+  },
+  {
+    "id": 436,
+    "domain": "repair_glass_and_related_components",
+    "front": "Is safe drive away time the same for every urethane product?",
+    "back": "No. It changes from product to product and shifts with temperature and humidity, so the specific manufacturer's stated time must always be followed."
+  },
+  {
+    "id": 437,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why does urethane cure time change with humidity?",
+    "back": "Urethane cures through a chemical reaction with moisture in the air, so more or less humidity changes the cure speed."
+  },
+  {
+    "id": 438,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the main risk of releasing a vehicle before its safe drive away time has passed?",
+    "back": "The windshield may not yet be able to do its structural job in a collision, since the bond has not fully developed strength."
+  },
+  {
+    "id": 439,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why should new clips always be used when reinstalling moulding?",
+    "back": "Old clips become brittle with age and heat cycling, and a broken clip can let moulding lift at highway speed."
+  },
+  {
+    "id": 440,
+    "domain": "repair_glass_and_related_components",
+    "front": "When should new moulding be fitted into the urethane bead?",
+    "back": "Before the urethane fully skins over, so it seats correctly into the wet bead and the reveal line stays even."
+  },
+  {
+    "id": 441,
+    "domain": "repair_glass_and_related_components",
+    "front": "What should be replaced when reinstalling a rain sensor after glass replacement?",
+    "back": "The optical gel pad that makes direct contact with the inside surface of the glass."
+  },
+  {
+    "id": 442,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why does an ADAS camera need recalibration after windshield replacement?",
+    "back": "Its calibration data assumes a specific relationship between the lens and the road, and new glass can shift that relationship."
+  },
+  {
+    "id": 443,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is static ADAS calibration?",
+    "back": "Using printed target boards set at precise measured distances and heights in a level, controlled shop environment along with a scan tool."
+  },
+  {
+    "id": 444,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is dynamic ADAS calibration?",
+    "back": "Driving the vehicle on the road at a specified speed for a set distance while a scan tool monitors the system."
+  },
+  {
+    "id": 445,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why should a technician confirm the exact calibration method for each vehicle instead of assuming?",
+    "back": "Some vehicles require both static and dynamic calibration together, not just one method."
+  },
+  {
+    "id": 446,
+    "domain": "repair_glass_and_related_components",
+    "front": "What documentation should be kept after a successful ADAS recalibration?",
+    "back": "A scan tool printout confirming the calibration was completed successfully, kept with the job file."
+  },
+  {
+    "id": 447,
+    "domain": "repair_glass_and_related_components",
+    "front": "What is the standard method for checking a new windshield for leaks?",
+    "back": "Running water over the top and sides of the glass with a hose while an assistant inside checks for water entry."
+  },
+  {
+    "id": 448,
+    "domain": "repair_glass_and_related_components",
+    "front": "Why wait a minute or two at each section during a water leak test?",
+    "back": "Urethane leaks are often slow seeps rather than instant streams, so rushing the test can miss a leak."
+  },
+  {
+    "id": 449,
+    "domain": "repair_glass_and_related_components",
+    "front": "What alternative test can find small leak paths that a water test might miss?",
+    "back": "A smoke or air pressure test inside the closed cabin, particularly useful around corners where the bead is hardest to apply evenly."
+  },
+  {
+    "id": 450,
+    "domain": "repair_glass_and_related_components",
+    "front": "What should be checked before releasing a vehicle after any glass replacement involving a rain sensor or ADAS camera?",
+    "back": "Run the wipers with water to confirm the rain sensor works, and confirm the scan tool shows a completed ADAS calibration."
+  },
+  {
+    "id": 451,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a single-stage paint finish?",
+    "back": "A paint that carries both colour and gloss in one product, sprayed and cured as a single layer without a separate clearcoat."
+  },
+  {
+    "id": 452,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a basecoat clearcoat system?",
+    "back": "A two-layer system where the basecoat carries colour only and a separate clearcoat is sprayed over top to provide gloss and UV protection."
+  },
+  {
+    "id": 453,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why does basecoat dry with no gloss?",
+    "back": "The basecoat only carries pigment and metallic or pearl effect; gloss and depth come entirely from the clearcoat sprayed afterward."
+  },
+  {
+    "id": 454,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a tri-coat paint system?",
+    "back": "A three-layer system that adds a midcoat, or pearl coat, containing mica particles between the basecoat and clearcoat."
+  },
+  {
+    "id": 455,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why are tri-coat pearl finishes harder to match?",
+    "back": "The midcoat must be sprayed with very even coats; too many passes darken the shade and too few leave it looking pale."
+  },
+  {
+    "id": 456,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a spectrophotometer used for in refinishing?",
+    "back": "An electronic tool that reads how existing paint reflects light to suggest the closest matching colour formula."
+  },
+  {
+    "id": 457,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a colour chip used for?",
+    "back": "A small painted sample on a fan deck held next to the vehicle for a fast first visual check of a colour formula."
+  },
+  {
+    "id": 458,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a test panel spray-out?",
+    "back": "A small batch of matched paint sprayed on a scrap panel with the planned gun setup, then compared to the vehicle in daylight."
+  },
+  {
+    "id": 459,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why check metallic colour from more than one angle?",
+    "back": "Metal flake reflects light differently depending on angle, so a match can look correct straight on but off from the side."
+  },
+  {
+    "id": 460,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What does blending accomplish in a repair?",
+    "back": "It feathers new paint into surrounding original paint so there is no visible line where the repair ends."
+  },
+  {
+    "id": 461,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "How far should clearcoat extend compared to basecoat during a blend?",
+    "back": "The clearcoat is blended further out than the basecoat, usually covering the entire adjacent panel."
+  },
+  {
+    "id": 462,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a blending solvent used for?",
+    "back": "It melts the outer edge of new paint into the old paint so the transition is smooth and invisible."
+  },
+  {
+    "id": 463,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Where should a technician plan to break a blend line?",
+    "back": "At a natural body line, trim piece, or panel gap on the vehicle to help hide the transition."
+  },
+  {
+    "id": 464,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is mil buildup?",
+    "back": "The thickness of the applied paint film, measured in thousandths of an inch with a mil gauge."
+  },
+  {
+    "id": 465,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What spray gun distance is generally recommended?",
+    "back": "Around six to eight inches, held at a consistent distance throughout each pass."
+  },
+  {
+    "id": 466,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What overlap percentage keeps paint film even between passes?",
+    "back": "Roughly fifty percent overlap so every area receives paint from two overlapping passes."
+  },
+  {
+    "id": 467,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is flash time?",
+    "back": "The waiting period between coats that allows solvents to evaporate before the next coat is applied."
+  },
+  {
+    "id": 468,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What happens if the next coat is sprayed before enough flash time passes?",
+    "back": "Solvent gets trapped underneath, which can cause the paint to wrinkle or blister."
+  },
+  {
+    "id": 469,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is orange peel?",
+    "back": "A bumpy surface texture resembling citrus skin, usually caused by paint drying too fast before it can level out."
+  },
+  {
+    "id": 470,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What causes runs and sags?",
+    "back": "Too much paint applied in one spot, often from moving the gun too slowly or holding it too close, without enough flash time."
+  },
+  {
+    "id": 471,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is fisheye and what causes it?",
+    "back": "A small circular crater in the paint, most often caused by silicone contamination from wax, polish, or tire dressing."
+  },
+  {
+    "id": 472,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is the real fix for fisheye contamination?",
+    "back": "Properly cleaning and degreasing the surface before spraying, not just adding fisheye eliminator additive each time."
+  },
+  {
+    "id": 473,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is blush and what causes it?",
+    "back": "A hazy, milky cloudiness in the paint film caused by moisture in the compressed air or overly humid spraying conditions."
+  },
+  {
+    "id": 474,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What prevents blush from occurring?",
+    "back": "A working air dryer and moisture trap fitted on the compressed air supply system."
+  },
+  {
+    "id": 475,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is solvent pop?",
+    "back": "Small pinholes or bubbles caused by trapped solvent trying to escape a coat that skinned over too fast."
+  },
+  {
+    "id": 476,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What are dirt nibs?",
+    "back": "Small bumps in the paint caused by dust or debris landing in the wet film during spraying."
+  },
+  {
+    "id": 477,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why must clearcoat be fully cured before buffing?",
+    "back": "A fully cured clearcoat resists scratching during buffing far better than a clearcoat that only feels dry to the touch."
+  },
+  {
+    "id": 478,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What speeds up clearcoat curing in a shop?",
+    "back": "A baking booth or infrared lamps are commonly used to speed the curing process."
+  },
+  {
+    "id": 479,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is buffing used for on a repaired panel?",
+    "back": "Removing very fine surface defects such as light orange peel or dust nibs without cutting through the colour coat underneath."
+  },
+  {
+    "id": 480,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is buffer burn?",
+    "back": "A dull or hazy patch caused by removing too much clearcoat in one spot during aggressive buffing."
+  },
+  {
+    "id": 481,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What technique helps avoid buffer burn?",
+    "back": "Working in overlapping passes and checking the surface often rather than staying in one spot too long."
+  },
+  {
+    "id": 482,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What comes after compounding to remove haze?",
+    "back": "A finer polish is used to remove the light haze left by the compound and restore full gloss and clarity."
+  },
+  {
+    "id": 483,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why wait before waxing a freshly buffed clearcoat?",
+    "back": "Many manufacturers recommend waiting so the clearcoat can finish off-gassing remaining solvents before wax is applied."
+  },
+  {
+    "id": 484,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why is natural daylight preferred for a final colour check?",
+    "back": "Fluorescent shop lighting can make two different colours look identical, hiding a real mismatch that daylight reveals."
+  },
+  {
+    "id": 485,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "From how many angles should a repaired panel be inspected?",
+    "back": "Straight on, from the side, and from above if possible, since metallic colours can look correct from only one angle."
+  },
+  {
+    "id": 486,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a cross light used for?",
+    "back": "A raking light held at a low angle to reveal surface texture problems invisible under normal overhead lighting."
+  },
+  {
+    "id": 487,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "How is gloss level checked between a repaired panel and its neighbours?",
+    "back": "By comparing reflection sharpness; a dull or hazy patch signals undercured clearcoat or a buffing mistake."
+  },
+  {
+    "id": 488,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What should be checked about trim and hardware before releasing a vehicle?",
+    "back": "That all trim pieces, emblems, and mirrors removed for the repair have been reinstalled correctly."
+  },
+  {
+    "id": 489,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why is an adhesion promoter required on bare plastic trim?",
+    "back": "Paint does not stick well to bare plastic without an adhesion promoter applied first."
+  },
+  {
+    "id": 490,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What is a common cause of paint peeling off plastic trim months later?",
+    "back": "Skipping the adhesion promoter step before applying basecoat to bare plastic."
+  },
+  {
+    "id": 491,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "How should a small removed trim part be refinished?",
+    "back": "Mounted on a stand or hook so the technician can rotate it for even coverage on all sides."
+  },
+  {
+    "id": 492,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What additive helps paint flex with plastic trim?",
+    "back": "A flexible additive mixed into the paint so the coating can bend with the plastic without cracking."
+  },
+  {
+    "id": 493,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What should be recorded on the repair order after a refinish job?",
+    "back": "The paint code used, any custom tint adjustment, and how far the blend extended."
+  },
+  {
+    "id": 494,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why are photographs taken of a completed refinish repair?",
+    "back": "They support the shop's quality records and any insurance or warranty documentation needed later."
+  },
+  {
+    "id": 495,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What effect does a clogged spray booth intake filter have?",
+    "back": "It reduces airflow and can pull unfiltered dust in around the booth door seals, contaminating panels."
+  },
+  {
+    "id": 496,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What step removes fine dust right before spraying basecoat?",
+    "back": "Wiping the panel with a tack cloth immediately after the final compressed air blow down."
+  },
+  {
+    "id": 497,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Why does a worn paint suit cause contamination?",
+    "back": "It can shed loose fibres and lint directly onto a freshly sprayed panel inside the booth."
+  },
+  {
+    "id": 498,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Where is the vehicle paint code sticker usually located?",
+    "back": "Inside the door jamb, trunk area, or engine bay of the vehicle."
+  },
+  {
+    "id": 499,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "What effect does a low spray booth temperature have on clearcoat?",
+    "back": "It slows curing and can allow solvent to become trapped underneath the paint surface."
+  },
+  {
+    "id": 500,
+    "domain": "refinish_vehicle_bodies_trim_and_components",
+    "front": "Where should a final overspray and masking residue check focus?",
+    "back": "Glass, trim pieces, and adjacent panels located near the repaired area of the vehicle."
+  }
+]
